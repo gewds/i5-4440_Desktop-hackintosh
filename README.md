@@ -4,7 +4,7 @@ Processor: i5-4440 Haswell Family<br>
 GPU: GTX 730 4gb <br>
 Memory: 16 gb ram (8 Gb 1333Mhz x 2 Sticks OC @ 1600Mhz 1.65V <br>
 Ethernet adapter: Realtek RTL8111  <br>
-2 tb western digital hdd <br>
+Storage: 2 tb western digital hdd <br>
 No wifi-bluetooth <br>
 
 Follow <a href="https://dortania.github.io/OpenCore-Install-Guide/installer-guide/">Dortania Opencore USB creation Guide</a> to create the bootable USB. And then replace the efi in the root of the USB if all the Hardware mentioned above is same as yours.<br>
